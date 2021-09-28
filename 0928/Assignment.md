@@ -25,10 +25,11 @@ class PreviewViewCell: UICollectionViewCell {
   }
 }
 ```
+- [넷플릭스 UI그려보기 소스코드](src/netflixCode.swift)
+
 - 이미지는 분명히 할당했는데 왜 이미지가 안들어 가는지 모르겠음
 
 ## 배달의 민족 UI 그려보기 Storyboard, UICollectionView
-- [프로젝트 주소](DeliveryPeople)
 ![](src/delivaryPeople.png)
 
 넷플릭스에서 한타임 맞고 조금 깨달은 바가 있어서 이번에는 그마나 구현이 됐다.
@@ -36,6 +37,9 @@ class PreviewViewCell: UICollectionViewCell {
 Cell Design은 xib을 통해서 했고 CollectionView를 ViewController에서 IBOutlet으로 가져온 뒤 collectionView에 셀을 등록, 레이아웃도 적용했다.
 layout은 UICollectionViewLayout을 했는데 잘 적용 되었다.
 dataSource 부분도 마찬가지로 잘 적용 되었으나 처음에는 안되었는데 그 이유는 dataSource는 델리게이트 이므로 델리게이트를 소유했어야 하는데 지정하는걸 까먹었다.
+
+- [배민 뷰 컨트롤러 소스코드](src/Delivery.swift)
+
 
 ## Version
 버전에 따라 지원하는 Swift언어의 버전, 프레임워크에서 제공하는 기능들이 다르기 때문에 또 그 과정에서 Deprecated 되는 UI와 메소드가 있기 때문에 버전별로 UI가 다르게 표시될 수 있다.
