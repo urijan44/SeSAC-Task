@@ -2,7 +2,7 @@
 
 ## Index
 - Lecture
-- Checklist
+- [Checklist](Checklist.md)
 - Assignment
 - Mission
 
