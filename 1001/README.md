@@ -4,7 +4,7 @@
 - Lecture
 - [Checklist](Checklist.md)
 - [Assignment](Assignment.md)
-- Mission
+- [Mission](Mission.md)
 
 ## Lecture
 1. if, if-else, if else<br>
