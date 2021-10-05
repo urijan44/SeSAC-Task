@@ -40,3 +40,5 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - Oveeride vs Overload
 - AutoLayout
 - Constraints
+## 5일차 1005
+- 정리중
