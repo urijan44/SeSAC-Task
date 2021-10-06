@@ -1,6 +1,9 @@
 # Alert
+앱을 사용하다보면 유저에게 어떤 이슈에 대해서 알람을 알려줄 필요가 있다. 다양한 이슈가 있는데 예를들어 잘못된 데이터에 접근 혹은 데이터에 접근할 수 없다던가, 네트워크 요청이 실패했다던가 혹은
 
-![Untitled](Alert/Untitled.png)
+작업 저장시 정말 이 상태를 저장할 것인지?, 또는 파일을 삭제할 때 정말 삭제할 것인지? 그러한 상황에서 알람이 표시되는 걸 앱을 사용하면서 많이들 겪어 보았을 것이다.
+
+![Untitled](Alert/default.png)
 
 알람은 모두 Alert Controller로 시작한다. 알람은 타이틀, 메시지와 각각의 동작을 취한다.
 
@@ -8,7 +11,7 @@
 
 알람은 두 종류의 알람이 있는데 위 사진과 같은 평범한 '알람' 스타일, 두번째 스타일은 액션 시트 스타일로 알람의 각 동작이 수직으로 표시된다.
 
-![Untitled](Alert/Untitled.png)
+![Untitled](Alert/action.png)
 
 ## Alert Button Style
 
@@ -52,7 +55,7 @@
 5. 액션 추가
 6. 이렇게 완성된 알람 컨트롤러 인스턴스는 present를 통해 표시할 수 있다.
 
-![Untitled](Alert%201ed9895c8b074424bf440b3a8f21bb21/Untitled%201.png)
+![Untitled](Alert/cancel.png)
 
 알람 버튼의 특성도 여기서 볼 수 있다. 취소 버튼은 확인 버튼과 다르게 살짝 볼드 처리가 된 것을 확인할 수 있다.
 
@@ -60,13 +63,13 @@ destructive 버튼은 어떨까
 
 코드로 돌아가서 ok 액션을 .default가 아닌 .destructive로 바꾸어 보자
 
-![Untitled](Alert/Untitled%202.png)
+![](Alert/distructive.png)
 
 위 사진과 같이 빨갛게 표시되며, 버튼은 항상 우측에 위치하게 된다. 
 
 이러한 액션이 아주 많이 추가가 되면 어떻게 변할까?
 
-![Untitled](Alert/Untitled%203.png)
+![Untitled](Alert/manyActions.png)
 
 액션 시트와 비슷하게 세로 형태로 나온다. 다른 점은 이는 화면 중앙에 위치가 된다.(좌측이 .alert, 우측이 .actionSheet)
 
@@ -74,7 +77,7 @@ destructive 버튼은 어떨까
 
 한가지 알람 컨트롤에는 재밌는 기능이 있는데 바로 Alert TextField이다. 알람 컨트롤러 안에 텍스트필드를 넣어 값을 입력받을 수도 있는데 이를 통해 로그인 화면도 구현이 가능하다 (다들 그렇게 쓰지는 않겠지만, 로그인 화면은 자고로 화려해야 한다.)
 
-![Untitled](Alert/Untitled%204.png)
+![Untitled](Alert/login.png)
 
 ```swift
 @IBAction func showAlert() {
