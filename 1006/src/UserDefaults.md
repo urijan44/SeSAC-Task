@@ -6,7 +6,7 @@ User Defaults는 앱 내에서 데이터를 반영구적으로 저장하는 방�
 
 ## 사용하기
 
-![Untitled](UserDefaults/Untitled.png)
+![Untitled](UserDefaults/castle1.png)
 
 Attack 버튼을 누르면 성의 내구도가 1씩 감소하며
 
@@ -192,6 +192,6 @@ class ViewController: UIViewController {
 }
 ```
 
-![Untitled](UserDefaults/Untitled%201.png)
+![Untitled](UserDefaults/castle2.png)
 
 Castle 클래스를 만들고 이를 Codable 프로토콜을 채용한 뒤 JSON Encoder, Decoder를 통해 Data로 만든다. UserDefaults는 Data 타입의 쓰기와 읽기를 허용하므로 사용자 정의 클래스를 UserDefaults를 통해 저장이 가능하다!
