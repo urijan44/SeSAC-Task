@@ -2,21 +2,21 @@
 
 # Enumeration - 열거형
 
-[Enumeration - 열거형](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/Enumeration%20-%20%E1%84%8B%E1%85%A7%E1%86%AF%E1%84%80%E1%85%A5%E1%84%92%E1%85%A7%E1%86%BC%2036137c3ac7db490e9a1ca2013427964d.md)
+[Enumeration - 열거형](src/Enumeration-열거형.md)
 
 # Alert
 
-[Alert](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/Alert%201ed9895c8b074424bf440b3a8f21bb21.md)
+[Alert](src/Alert.md)
 
 앱을 사용하다보면 유저에게 어떤 이슈에 대해서 알람을 알려줄 필요가 있다. 다양한 이슈가 있는데 예를들어 잘못된 데이터에 접근 혹은 데이터에 접근할 수 없다던가, 네트워크 요청이 실패했다던가 혹은
 
 작업 저장시 정말 이 상태를 저장할 것인지?, 또는 파일을 삭제할 때 정말 삭제할 것인지? 그러한 상황에서 알람이 표시되는 걸 앱을 사용하면서 많이들 겪어 보았을 것이다.
 
-![Untitled](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/Untitled.png)
+![Untitled](src/Untitled.png)
 
-![Untitled](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/Untitled%201.png)
+![Untitled](src/Untitled%201.png)
 
-![Untitled](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/Untitled%202.png)
+![Untitled](src/Untitled%202.png)
 
 # Storyboard Reference
 
@@ -120,13 +120,13 @@ SPM을 통해 다른 사람들이 작성한 오픈 소스 패키지 쉽게 접�
 
 Xcode - File - New - Package로 작성할 수 있다.
 
-![Untitled](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/Untitled%203.png)
+![Untitled](src/Untitled%203.png)
 
 패키지를 생성하고 나면 프로젝트에 다음과 같이 패키지 이름으로 들어오게 된다.
 
 # User Defaults
 (Mission)
-[User Defaults](SeSAC%207%E1%84%92%E1%85%AC%E1%84%8E%E1%85%A1%202021%2010%2006%2075ee4a27d64145bfaaeb4b58b5b3f7db/User%20Defaults%200157b96c3cd84184b3c67e00185f707c.md)
+[User Defaults](src/UserDefaults.md)
 
 # Assignment
 [깃헙 링크](https://github.com/urijan44/SeSAC_EmotionDiary)

@@ -42,3 +42,13 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - Constraints
 ## 5일차 1005
 - 정리중
+
+## 7회차 1006
+[폴더이동](1006/README.md)
+- Enumeration
+- Alert
+- Storyboard Reference
+- OpenSource License
+- Swift Package Manager
+- User Defaults
+- Assignment, Mission
