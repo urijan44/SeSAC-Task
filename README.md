@@ -52,3 +52,7 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - Swift Package Manager
 - User Defaults
 - Assignment, Mission
+
+## 8회차 1007
+[폴더이동](1007/README.md)
+- Assignment
