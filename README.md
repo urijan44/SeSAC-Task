@@ -56,3 +56,15 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 8회차 1007
 [폴더이동](1007/README.md)
 - Assignment
+
+## 9회차 1008
+[폴더이동](1008/README.md)
+- Enumeration, RawValue, Switch (7회차 Enumeration에 통합)
+- Tuple (정리중)
+- Print vs Return (정리중)
+- Implict returns (정리중)
+- @discardableResult (정리중)
+- Extension (정리중)
+- Local Notification
+- Alert (7회차 Alert에 통합)
+- Assignment: 물마시기 앱
