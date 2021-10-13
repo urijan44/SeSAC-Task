@@ -72,3 +72,11 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 10회차 1012
 [폴더이동](1012/README.md)
 - TableView
+- Assignment: 테이블 뷰 구성하기
+
+## 11회차 1013
+[폴더이동](1013/README.md)
+- Custom TableViewCell
+- TypeCasting
+- Properties
+- Assignment: 환율 변동 프로그램, 쇼핑 목록 리스트
