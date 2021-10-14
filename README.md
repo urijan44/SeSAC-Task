@@ -80,3 +80,13 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - TypeCasting
 - Properties
 - Assignment: 환율 변동 프로그램, 쇼핑 목록 리스트
+
+## 12회차 1014
+[폴더이동](1014/README.md)
+- Extension
+- Type Property
+- Instance Method
+- Type Moethod
+- Signleton Pettern
+- Autometic Demensions
+- Assignment: 메모앱, 쇼핑 목록 리스트
