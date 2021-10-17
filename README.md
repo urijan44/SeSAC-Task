@@ -90,3 +90,30 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - Signleton Pettern
 - Autometic Demensions
 - Assignment: 메모앱, 쇼핑 목록 리스트
+
+## 13회차 1015
+[폴더이동](1015/README.md)
+- View Controller Transition
+  - View Controller Identity
+  - modalPresentationStyle
+  - modalTransitionStyle
+  - Push - Pop
+  - Present - Dismiss
+    - UINavigation Controller
+- Storyboard
+  - Main Interface
+  - Info.plist - Storyboard Name
+- Target - Action Design Pattern
+  - @objc
+- Protocol
+- Delegate Pattern
+- UIViewController + UITableView
+  - UITableViewDelegate
+  - UITableVieDataSource
+- UIPickerView
+  - UIPickerViewDelegate
+  - UIPickerViewDataSource
+- UITextField
+  - InputView
+  - UITextFieldDelegate
+- Assignment: 트렌트 미디어
