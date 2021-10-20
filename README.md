@@ -117,3 +117,14 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
   - InputView
   - UITextFieldDelegate
 - Assignment: 트렌트 미디어
+
+## 14회차 1018
+## 15회차 1019
+## 16회차 1020
+- MapKit
+- CoreLocation
+- MKPointAnnotation
+- LocationManager
+- CoreLocation
+- Authorization & Privacy 
+- 트랜드 미디어 Assignments[이동하기](https://github.com/urijan44/SeSAC-Assignments/blob/main/TrendMedia/README.md)
