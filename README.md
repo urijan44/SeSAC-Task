@@ -128,3 +128,6 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - CoreLocation
 - Authorization & Privacy 
 - 트랜드 미디어 Assignments[이동하기](https://github.com/urijan44/SeSAC-Assignments/blob/main/TrendMedia/README.md)
+
+## 17회차 1021
+- [Memory Managemenet, Closure Capture list](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/Swift/MemoryManagerment.md)
