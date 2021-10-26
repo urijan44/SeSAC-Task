@@ -131,3 +131,10 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 
 ## 17회차 1021
 - [Memory Managemenet, Closure Capture list](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/Swift/MemoryManagerment.md)
+
+## 20회차 1027
+- [HTTP vs Socket](https://github.com/urijan44/TIL-Store/blob/master/Network/HTTP.md)
+- [REST API](https://github.com/urijan44/TIL-Store/blob/master/Network/REST_API.md)
+- URL
+- Serialization
+- Assignments([OpenWeatherAPI](https://github.com/urijan44/SeSAC-Assignments/blob/main/HeyWeather/README.md), [Lottry API](https://github.com/urijan44/SeSAC-Assignments/blob/main/Lottery/README.md), [영화진흥위원회 API](https://github.com/urijan44/SeSAC-Assignments/blob/main/TrendMedia/README.md))
