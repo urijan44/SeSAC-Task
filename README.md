@@ -138,3 +138,7 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - URL
 - Serialization
 - Assignments([OpenWeatherAPI](https://github.com/urijan44/SeSAC-Assignments/blob/main/HeyWeather/README.md), [Lottry API](https://github.com/urijan44/SeSAC-Assignments/blob/main/Lottery/README.md), [영화진흥위원회 API](https://github.com/urijan44/SeSAC-Assignments/blob/main/TrendMedia/README.md))
+
+## 24회차 1101
+- [Localization](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/Localization/README.md)
+- [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC6WEEK/README.md)
