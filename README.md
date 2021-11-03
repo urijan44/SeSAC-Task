@@ -142,3 +142,19 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 24회차 1101
 - [Localization](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/Localization/README.md)
 - [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC6WEEK/README.md)
+
+## 25회차 1102
+- DB
+- DBMS
+- RDBMS
+- Schmem
+- Column
+- Record
+- 정규화
+- PK
+- FK
+- UK
+- Migration
+- Realm
+- [Assignment_ShoppingList](https://github.com/urijan44/SeSAC-Assignments/blob/main/ShoppingList/README.md)
+- [Assignment_영진원](https://github.com/urijan44/SeSAC-Assignments/blob/main/TrendMedia/README.md)
