@@ -158,3 +158,10 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - Realm
 - [Assignment_ShoppingList](https://github.com/urijan44/SeSAC-Assignments/blob/main/ShoppingList/README.md)
 - [Assignment_영진원](https://github.com/urijan44/SeSAC-Assignments/blob/main/TrendMedia/README.md)
+
+## 26회차 1103
+- Realm
+- Assignment_ShoppingList: 어제자로 모두 구현 해두었음
+- Assignment_영진원: 어제자로 구현 완료
+- [Assignment_옵션(다이어리)](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC6WEEK/README_v2.md)
+- [Mission_ShoppingList](https://github.com/urijan44/SeSAC-Assignments/blob/main/ShoppingList/README_v3.md)
