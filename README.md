@@ -171,3 +171,11 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - App Sandbox
 - [Assignment_ShoppingList](https://github.com/urijan44/SeSAC-Assignments/blob/main/ShoppingList/README_v4.md)
 - Assignment_옵션(다이어리): 어제자로 모두 구현 완료
+
+## 29회차 1108
+- UICollectionView in UITableView
+  - configure cell
+  - awakeFromNib vs viewDidLoad
+- UIKit Appearence
+- UIBlurEffect
+- Swift Initializer
