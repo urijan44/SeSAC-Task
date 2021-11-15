@@ -179,3 +179,7 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - UIKit Appearence
 - UIBlurEffect
 - Swift Initializer
+
+## 34회차 1115
+- 평가과제 Memo 리뷰
+- 팀 빌딩, 출시 프로젝트 기획 공유1
