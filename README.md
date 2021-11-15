@@ -181,5 +181,5 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - Swift Initializer
 
 ## 34회차 1115
-- 평가과제 Memo 리뷰
-- 팀 빌딩, 출시 프로젝트 기획 공유1
+- [평가과제 Memo 리뷰(+ 팀리뷰)](https://github.com/urijan44/MemoMemo)
+- [팀 빌딩, 출시 프로젝트 기획 공유1](https://gookbobhenry.notion.site/df7bf3aed61f4f8da8863d0f34aef1ea)
