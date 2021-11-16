@@ -189,3 +189,4 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [팀 빌딩, 출시프로젝트 기획 공유2](https://gookbobhenry.notion.site/2-ffff8de2195e499ea79c66486e25e077)
 - [팀 빌딩, Memo 팀 리뷰](https://gookbobhenry.notion.site/2-f129dcfc62e74b7a99c6d2cd07b3f1e6)
 - [36회차 후 학습 내용 공유 계획](https://gookbobhenry.notion.site/9857fe74f72b40a6b9bc8a2f41c6872d)
+  - [오픈소스 라이선스](https://github.com/urijan44/TIL-Store/blob/master/App/License.md)
