@@ -183,3 +183,9 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 34회차 1115
 - [평가과제 Memo 리뷰(+ 팀리뷰)](https://github.com/urijan44/MemoMemo)
 - [팀 빌딩, 출시 프로젝트 기획 공유1](https://gookbobhenry.notion.site/df7bf3aed61f4f8da8863d0f34aef1ea)
+
+## 35회차 1116
+- [출시 프로젝트 기획](https://gookbobhenry.notion.site/f14958db04aa4976b1980e3318f02500)
+- [팀 빌딩, 출시프로젝트 기획 공유2](https://gookbobhenry.notion.site/2-ffff8de2195e499ea79c66486e25e077)
+- [팀 빌딩, Memo 팀 리뷰](https://gookbobhenry.notion.site/2-f129dcfc62e74b7a99c6d2cd07b3f1e6)
+- [36회차 후 학습 내용 공유 계획](https://gookbobhenry.notion.site/9857fe74f72b40a6b9bc8a2f41c6872d)
