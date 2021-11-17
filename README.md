@@ -191,3 +191,11 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [36회차 후 학습 내용 공유 계획](https://gookbobhenry.notion.site/9857fe74f72b40a6b9bc8a2f41c6872d)
   - [오픈소스 라이선스](https://github.com/urijan44/TIL-Store/blob/master/App/License.md)
   - [컬렉션 뷰 공부](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/UIKit/CollectionView/CompositionalLayout.md)
+
+## 36회차 1117
+- [35회차 학습 내용 결과 공유] - 각 TIL
+- [출시 프로젝트 기획 마무리](https://gookbobhenry.notion.site/f14958db04aa4976b1980e3318f02500)
+- [팀 빌딩, 출시프로젝트 기획 공유3](https://gookbobhenry.notion.site/ab1014f19eb44933bf65033421fab2c3)
+- [37회차 후 학습 내용 공유 계획](https://gookbobhenry.notion.site/eebb2f96429b441dab51c4a26144b41f)
+ - [컬렉션 뷰 공부 DataSource](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/UIKit/CollectionView/DiffableDataSource.md)
+ - [컬렉션 뷰 공부 레이아웃](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/UIKit/CollectionView/CompositionalLayout.md)
