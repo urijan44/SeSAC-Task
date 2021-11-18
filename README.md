@@ -199,3 +199,8 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [37회차 후 학습 내용 공유 계획](https://gookbobhenry.notion.site/eebb2f96429b441dab51c4a26144b41f)
  - [컬렉션 뷰 공부 DataSource](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/UIKit/CollectionView/DiffableDataSource.md)
  - [컬렉션 뷰 공부 레이아웃](https://github.com/urijan44/TIL-Store/blob/master/iOS_Swift/UIKit/CollectionView/CompositionalLayout.md)
+
+ ## 37회차 1118
+ - [36회 학습 내용 결과 공유] - 각 TIL
+ - [출시프로젝트 각 할일 테스크 공유](https://gookbobhenry.notion.site/00f60bb533cf490182aff632c416285e)
+ - [캘린더 제작 공부] -미완성-
