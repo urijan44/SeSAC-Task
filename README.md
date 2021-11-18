@@ -204,3 +204,5 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
  - [36회 학습 내용 결과 공유] - 각 TIL
  - [출시프로젝트 각 할일 테스크 공유](https://gookbobhenry.notion.site/00f60bb533cf490182aff632c416285e)
  - [캘린더 제작 공부] -미완성-
+ - [NSDateFormatter 읽기목록](https://nsdateformatter.com/)
+ - [Calendar Apple Developer Document 읽기목록](https://developer.apple.com/documentation/foundation/calendar)
