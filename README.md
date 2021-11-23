@@ -206,3 +206,11 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
  - [캘린더 제작 공부] -미완성-
  - [NSDateFormatter 읽기목록](https://nsdateformatter.com/)
  - [Calendar Apple Developer Document 읽기목록](https://developer.apple.com/documentation/foundation/calendar)
+
+## 38회차 1119
+## 39회차 1122
+- [39회차 하급 내요 결과 공유] - 각 TIL 및 프로젝트
+- [출시프로젝트 정보 공유](https://gookbobhenry.notion.site/5799bab662534b3f8ed6663d66559fa4)
+
+## 40회차 1123
+- [출시프로젝트 진행상황](https://gookbobhenry.notion.site/7f6392f7d5d64fe18040672c7f02a8ca?v=744c662f09864035a545a4f34ba57a8c)
