@@ -218,3 +218,7 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 41회차 1124
 - [출시프로젝트 문제점 공유](https://gookbobhenry.notion.site/26636ccd87a949b68b0adf668a626c39)
 - [출시프로젝트 진행상황](https://gookbobhenry.notion.site/7f6392f7d5d64fe18040672c7f02a8ca?v=744c662f09864035a545a4f34ba57a8c)
+
+## 42회차 1125
+- [출시프로젝트 전날 문제 해결 공유]
+- [출시프로젝트 진행상황](https://gookbobhenry.notion.site/7f6392f7d5d64fe18040672c7f02a8ca?v=744c662f09864035a545a4f34ba57a8c)
