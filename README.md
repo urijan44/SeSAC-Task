@@ -222,3 +222,9 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 42회차 1125
 - [출시프로젝트 전날 문제 해결 공유]
 - [출시프로젝트 진행상황](https://gookbobhenry.notion.site/7f6392f7d5d64fe18040672c7f02a8ca?v=744c662f09864035a545a4f34ba57a8c)
+
+## 53회차 1213
+- 출시프로젝트 - Analytics, Crashlytics 적용
+- [Reference Interview](https://gookbobhenry.notion.site/Reference-dba1f7b22bd449b18627796354ea39b8)
+- [NIB 정리](https://gookbobhenry.notion.site/1213-b429e1c08deb486d9a5a262275c122fe)
+- [NIB 복습](https://gookbobhenry.notion.site/1213-Checklist-ca6dc82ec8aa45dd809211d2961ac69b)
