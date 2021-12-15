@@ -229,7 +229,7 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [NIB 정리](https://gookbobhenry.notion.site/1213-b429e1c08deb486d9a5a262275c122fe)
 - [NIB 복습](https://gookbobhenry.notion.site/1213-Checklist-ca6dc82ec8aa45dd809211d2961ac69b)
 
-## 54회차 1214
+## 54회차 1215
 - 출시프로젝트 버그 수정중.
 - [Code Based](https://gookbobhenry.notion.site/1214-59ee97f07d9a44d29be1b2b1a1b9e803)
 - [Melon Code Base Layout](https://github.com/urijan44/SeSAC-Assignments/blob/main/CodeBaseLayout/README_v1.md)
