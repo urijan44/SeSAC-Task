@@ -233,3 +233,9 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - 출시프로젝트 버그 수정중.
 - [Code Based](https://gookbobhenry.notion.site/1214-59ee97f07d9a44d29be1b2b1a1b9e803)
 - [Melon Code Base Layout](https://github.com/urijan44/SeSAC-Assignments/blob/main/CodeBaseLayout/README_v1.md)
+
+## 55회차 1215
+- 출시프로젝트 버그 수정, ISE131214, ISE141215, ISE151215
+- 출시프로젝트 기능 수정, U00009, U00018
+- [수업](https://gookbobhenry.notion.site/1215-4798a9a0f118418890d495a42182ce32)
+- [체크리스트](https://gookbobhenry.notion.site/1215-Checklist-a21d9efbe6bf416e9d37cc5f9c893a98)
