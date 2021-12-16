@@ -239,3 +239,8 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - 출시프로젝트 기능 수정, U00009, U00018
 - [수업](https://gookbobhenry.notion.site/1215-4798a9a0f118418890d495a42182ce32)
 - [체크리스트](https://gookbobhenry.notion.site/1215-Checklist-a21d9efbe6bf416e9d37cc5f9c893a98)
+
+## 56회차 1216
+- 출시프로젝트 푸시 노티피케이션 활용한 기능 구상(https://gookbobhenry.notion.site/16e9420957264bf78ba6ffab2a3e4e1b)
+- [Push Notification with Firebase Cloud Messaging](https://gookbobhenry.notion.site/1216-9476325a4855454883f6a960079fac51)
+- [Push Notification by Tutorials](https://gookbobhenry.notion.site/Push-Notification-20d0346d72a4417b9b7bb738e6d28a12)
