@@ -244,3 +244,6 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - 출시프로젝트 푸시 노티피케이션 활용한 기능 구상(https://gookbobhenry.notion.site/16e9420957264bf78ba6ffab2a3e4e1b)
 - [Push Notification with Firebase Cloud Messaging](https://gookbobhenry.notion.site/1216-9476325a4855454883f6a960079fac51)
 - [Push Notification by Tutorials](https://gookbobhenry.notion.site/Push-Notification-20d0346d72a4417b9b7bb738e6d28a12)
+
+## 58회차 1220
+- [Codable](https://gookbobhenry.notion.site/1220-a3a8547e6e454acd81b7b0b323bf1bd5)
