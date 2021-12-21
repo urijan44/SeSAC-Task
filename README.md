@@ -247,3 +247,8 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 
 ## 58회차 1220
 - [Codable](https://gookbobhenry.notion.site/1220-a3a8547e6e454acd81b7b0b323bf1bd5)
+
+## 59회차 1221
+- [URLSession]()
+- [MVVM]()
+- [Assignment]()
