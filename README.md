@@ -251,4 +251,9 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 59회차 1221
 - [URLSession]()
 - [MVVM]()
-- [Assignment]()
+- [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/BeerBrew/README.md)
+
+## 60회차 1122
+- [URLSession Delegate]()
+- [MVVM]()
+- [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/DramaInfo/README.md)
