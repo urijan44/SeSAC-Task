@@ -257,3 +257,7 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [URLSession Delegate]()
 - [MVVM]()
 - [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/DramaInfo/README.md)
+
+## 63회차 1127
+- [Question](1227/Question.md)
+- [회원가입 과제](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC_AuthPractice/README.md)
