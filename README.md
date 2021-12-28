@@ -253,11 +253,18 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [MVVM]()
 - [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/BeerBrew/README.md)
 
-## 60회차 1122
+## 60회차 1222
 - [URLSession Delegate]()
 - [MVVM]()
 - [Assignment](https://github.com/urijan44/SeSAC-Assignments/blob/main/DramaInfo/README.md)
 
-## 63회차 1127
+## 63회차 1227
+- [수업](https://gookbobhenry.notion.site/1227-8f6e00cef5ca405a90cd7b194a0fda2d)
 - [Question](1227/Question.md)
 - [회원가입 과제](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC_AuthPractice/README.md)
+
+## 64회차 1229
+- [Checklist](1228/Checklist.md)
+- [Question](1228/Question.md)
+- [회원가입 과제, 보드뷰와 스켈레톤 뷰](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC_AuthPractice/README.md)
+- Leaf 앱스토어 업데이트 통과
