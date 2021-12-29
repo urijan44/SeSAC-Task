@@ -263,8 +263,13 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [Question](1227/Question.md)
 - [회원가입 과제](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC_AuthPractice/README.md)
 
-## 64회차 1229
+## 64회차 1228
 - [Checklist](1228/Checklist.md)
 - [Question](1228/Question.md)
 - [회원가입 과제, 보드뷰와 스켈레톤 뷰](https://github.com/urijan44/SeSAC-Assignments/blob/main/SeSAC_AuthPractice/README.md)
 - Leaf 앱스토어 업데이트 통과
+
+## 65회차 1229
+- [Checklist](1229/Checklist.md)
+- [Question](1229/Question.md)
+- [Assignment 맥주앱 리펙토링]
