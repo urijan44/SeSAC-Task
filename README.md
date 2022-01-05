@@ -274,8 +274,12 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 - [Question](1229/Question.md)
 - [Assignment 맥주앱 리펙토링]
 
-## 69회차 0105
+## 69회차 0104
 - [Assignment 회원가입 버튼 MVVM+Rx를 이용해서 검증 활성화 해보기](https://gookbobhenry.notion.site/MVVM-Rx-a537ab19895446dd860bd1aa7eaa4ea9)
-- [Aztro](220105/Aztro.md)
-- [Checklist](220105/Checklist.md)
-- [Question: Swift Mutating, Control transfer statements](220105/Question.md)
+- [Aztro](220104/Aztro.md)
+- [Checklist](220104/Checklist.md)
+- [Question: Swift Mutating, Control transfer statements](220104/Question.md)
+
+## 70회차 0105
+- [Assignment](220105/Assignments.md)
+- [Question](220105/Question.md)
