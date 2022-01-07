@@ -283,3 +283,9 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 70회차 0105
 - [Assignment](220105/Assignments.md)
 - [Question](220105/Question.md)
+
+## 71회차 0106
+- [Checklist](220106/Checklist.md)
+- [Question]()
+
+## 72회차 0107
