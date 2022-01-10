@@ -291,4 +291,4 @@ SSAC iOS 과정 중 수행한 과제 및 자료조사 등을 업로드 합니다
 ## 72회차 0107
 
 ## 73회차 0110
-- [Checklist]
+- [Checklist](220110/Checklist.md)
